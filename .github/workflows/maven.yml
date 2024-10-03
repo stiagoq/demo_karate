@@ -35,11 +35,11 @@ jobs:
       if: success() || failure()
       with:
           name: Karate Report                 
-          path: target/karate-reports/
+          path: karate/target/karate-reports/
 
     - name: Test Report Generation Cucumber
       uses: actions/upload-artifact@v4
       if: success() || failure()
       with:
         name: Cucumber Report                 
-        path: build/
+        path: karate/build/
