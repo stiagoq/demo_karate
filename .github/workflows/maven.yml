@@ -26,7 +26,8 @@ jobs:
         
     - name: Build with Maven
       run: |
-        #mvn clean compile -X    
+        cd karate
+        mvn clean compile -X    
         mvn verify -Dtest=ManagementTest
         
     - name: Test Report Generation karate
