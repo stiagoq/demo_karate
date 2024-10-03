@@ -1,0 +1,8 @@
+
+7
+java:S1220""Move this file to a named package.8Âû»œ¥2
+k
+java:S1854"IRemove this useless assignment to local variable "reportOutputDirectory".(Áˆçúÿÿÿÿ8”ü»œ¥2
+\
+java:S1481":Remove this unused "reportOutputDirectory" local variable.(Áˆçúÿÿÿÿ8¡ü»œ¥2
+]	java:S125"<This block of commented-out lines of code should be removed.(ğË¡úûÿÿÿÿ8¬ü»œ¥2

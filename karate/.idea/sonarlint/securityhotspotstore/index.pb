@@ -17,3 +17,8 @@ Q
 !src/test/java/ManagementTest.java,8/9/89e3604abd0fbcf5ebfbb3a6fa205686683b940d
 b
 2build/cucumber-html-reports/overview-features.html,6/0/60cb1b1c1a23778ac74eb67b06118b418ab1b104
+@
+karate-config.js,c/2/c2ebe5aadb1427c1241fbd2ce56610c72648ddf8
+:
+
+.gitignore,a/5/a5cc2925ca8258af241be7e5b0381edf30266302
